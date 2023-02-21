@@ -28,8 +28,8 @@
 
 Original image
 
-<img src="https://github.com/ha-ov/JAAL-Net/blob/main/example/c.jpg" width="200" height="200">
+<img src="https://github.com/ha-ov/JAAL-Net/blob/main/example/a.jpg" width="200" height="200">
 
 Classify and Segment image
 
-<img src="https://github.com/ha-ov/JAAL-Net/blob/main/example/c-1.jpg" width="200" height="200">
+<img src="https://github.com/ha-ov/JAAL-Net/blob/main/example/a_pre.jpg" width="200" height="200">
