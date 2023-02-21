@@ -28,8 +28,8 @@
 
 Original image
 
-<img src="https://github.com/0x5eba/Skin-Cancer-Segmentation/blob/master/Nei/git.png" width="200" height="200">
+<img src="https://github.com/ha-ov/JAAL-Net" width="200" height="200">
 
 Classify and Segment image
 
-<img src="https://github.com/0x5eba/Skin-Cancer-Segmentation/blob/master/Nei/gitres.png" width="400" height="400">
+<img src="https://github.com/ha-ov/JAAL-Net" width="200" height="200">
