@@ -30,6 +30,6 @@ Original image
 
 <img src="https://github.com/ha-ov/JAAL-Net/blob/main/example/a.jpg" width="250" height="200">
 
-Classify and Segment image
+Segment image
 
 <img src="https://github.com/ha-ov/JAAL-Net/blob/main/example/a_pre.jpg" width="250" height="200">
